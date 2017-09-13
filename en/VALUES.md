@@ -15,6 +15,6 @@ interactions with our organization.
 When reviewing contributions, we will actively fight unconscious bias with any
 resources we have at hand to make the process as fair as we can.
 
-Our community and all of its repos aim to be a safe space, and our code of
-conduct(https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md)
+Our community and all of its repos aim to be a safe space, and our [code of
+conduct](https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md)
 reflects that violence, harrassment or hate speech will not be tolerated.
