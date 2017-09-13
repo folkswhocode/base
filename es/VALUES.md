@@ -9,13 +9,14 @@ nuestro trabajo consiste en crear un ambiente cómodo y seguro para todos los
 nuevos *contributors* que lleguen a nuestros repos. Nuestra guía de contribución
 explica esto detalladamente.
 
-Admin/senior/privileged users will act as mentors/sponsors of newcomers and will
-make sure their experience is satisfactory and enriching throughout their
-interactions with our organization.
+Los administradores, así como usuarios con más experiencia o más privilegiados
+tomarán el rol de mentores/sponsors de los recién llegados, garantizando que su
+experiencia en la organización sea satisfactoria y enriquecedora.
 
-When reviewing contributions, we will actively fight unconscious bias with any
-resources we have at hand to make the process as fair as we can.
+A la hora de revisar contribuciones, lidiaremos con los sesgos haciendo uso de
+los recursos disponibles. Es nuestra responsabilidad trabajar activamente para
+hacer que el proceso sea lo más justo posible.
 
-Our community and all of its repos aim to be a safe space, and our code of
-conduct reflects that violence, harrassment or hate speech will not be
-tolerated.
+Nuestra comunidad, así como todos sus repos, persiguen ser un espacio seguro.
+Nuestro [código de conducta](https://github.com/folkswhocode/base/blob/master/es/CODE_OF_CONDUCT.md) 
+refleja que la violencia, el acoso o la intolerancia no serán toleradas.
