@@ -29,9 +29,9 @@ to make via issue :smile:
 
 You can start by looking through these `beginner-friendly`, `good-first-issue` and `help-wanted` issues:
 
-* [Beginner issues][beginner-friendly]
-* [Good first issue][good-first-issue]
-* [Help wanted issues][help-wanted]
+* [Beginner issues][beginner-friendly] — issues for less seasoned contributors.
+* [Good first issue][good-first-issue] — an easy way to establish initial contact with our projects.
+* [Help wanted issues][help-wanted] — issues which should be a bit more involved than `beginner-friendly` issues.
 
 ### Pull Requests
 
