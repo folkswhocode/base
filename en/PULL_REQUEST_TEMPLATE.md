@@ -32,3 +32,10 @@ Connects to #N.
 - [ ] Does this add new dependencies which need to be added to the development environment?
 - [ ] Does this add new dependencies which need to be added to the production environment?
 - [ ] Is there a blog post?
+
+## By submitting this pull request I confirm I've read and comply with the below requirements
+
+- I have read and understood the [contribution guidelines](https://github.com/folkswhocode/base/blob/master/en/CONTRIBUTING.md)
+and our [code of conduct](https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md).
+- This pull request complies with the [code of conduct](https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md) of the organization.
+- This pull request has a descriptive title. For example, `Add new function to calculate user rating`, not `Update readme.md` or `Add some feature`.
